@@ -3,6 +3,11 @@ Repozitář obsahuje finální terminologické hesláře, výsledky kvantitativn
 
 # Obsah repozitáře
 
+## `grafy/`
+- `01_BM25_boxplot.tif` – krabicový graf BM25 včetně odlehlých hodnot.
+- `02_BM25_percentily_QL28.tif` – percentily BM25 pro QL28.
+- `03_BM25_percentily_V230.tif` – percentily BM25 pro V230.
+- 
 ## `heslare/`
 - `QL28.txt` – 28 lemmat charakteristických pro kvantitativní, korpusovou a komputační lingvistiku.
 - `V230.txt` – 230 versologických termínů.
@@ -14,11 +19,6 @@ Repozitář obsahuje finální terminologické hesláře, výsledky kvantitativn
 - `logisticka_regrese_souhrn.txt` – společný souhrn dvou regresních analýz.
 - `logisticka_regrese_predikce.txt` – modelové predikce pro oba hesláře (2 660 řádků).
 - `zanry_nad_P75.txt` – zastoupení rubrik u textů nad 75. percentilem BM25.
-
-## `grafy/`
-- `01_BM25_boxplot.tif` – krabicový graf BM25 včetně odlehlých hodnot.
-- `02_BM25_percentily_QL28.tif` – percentily BM25 pro QL28.
-- `03_BM25_percentily_V230.tif` – percentily BM25 pro V230.
 
 ## Zkratky a označení
 
