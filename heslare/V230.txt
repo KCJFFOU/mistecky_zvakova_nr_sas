@@ -1,0 +1,230 @@
+﻿alexandrin
+alexandrin libéré
+alexandrin romantický
+alexandrin uvolněný
+amfibrach
+anapest
+asonance
+asonance redukovaná
+báze aiolská
+blankvers
+celek přízvukový
+cézura
+cézura hefthémimerés
+cézura kata tritón trochaion
+cézura mužská
+cézura penthémimerés
+cézura trithémimerés
+cézura ženská
+časomíra
+čtyřverší
+daktyl
+daktylotrochej
+daktylotrochej s předrážkou
+daktyl s předrážkou
+dekanonizace
+dekasylab (desetislabičník)
+diereze
+diereze bukolská
+dipodie
+distichon elegické
+dvojverší
+dvojverší heroiské
+echo rýmové
+enjambement
+falacej
+ferekratej
+fonetická rovina rýmu
+forma pevná
+glykonej
+gramatičnost rýmu
+hendekasylab alkajský
+hendekasylab falecký
+hendekasylab sapfický
+heroiský kuplet
+hexametr
+hyperstrofa
+incipit
+izochronie
+jamb
+kanonizace
+katalexe
+klauzule
+klauzule akatalektická
+klauzule heroiská
+klauzule katalektická
+klauzule mužská
+klauzule ženská
+logaed
+metrika
+metron
+metrum
+místo rýmové
+modul strofický
+monosylabon
+oktáva
+oktosylab (osmislabičník)
+osmiverší
+ottava rima
+oxytonon
+pantorým
+paroxytonon
+pentametr
+pevná forma
+pětiverší
+poloasonance
+polorým
+polymetrie
+polysylabon
+pozice S
+pozice silná
+pozice slabá
+pozice V
+pozice volná
+pozice W
+proklize
+proparoxytonon
+prozodická reforma (Dobrovského)
+předěl meziveršový
+předěl syntaktický
+přesah
+přízvukový celek
+reduplikant
+refrén
+rovina rýmu fonetická
+rovina rýmu sémantická
+rozměr
+rytmický slovník
+rytmika
+rytmizace
+rytmus
+rým
+rýmové echo
+rýmové místo
+rýmové schéma
+rýmové slovo
+rýmový slovník
+rým anizometrický
+rým bohatý
+rým daktylský
+rým dekanonizovaný
+rým dvojslabičný
+rým exotický
+rým gramatický
+rým homonymní
+rým jednoslabičný
+rým kanonický
+rým koncovkový
+rým koncový
+rým mozaikový
+rým mužský
+rým nepřesný
+rým obkročný
+rým otevřený
+rým redukovaný
+rým sdružený
+rým složený (mozaikový)
+rým střídavý
+rým sylabický
+rým sylabotónický
+rým štěpný
+rým tautologický
+rým vnitřní
+rým zavřený
+rým ženský
+sedmiverší
+sesta rima
+sestina narrativa
+sémantická rovina rýmu
+sémantika verše
+shoda minimální (v rýmu)
+shoda nadměrná (v rýmu)
+schéma rýmové
+schéma strofické
+siciliana
+slabika dlouhá
+slabika krátká
+slabika obojetná
+slabika pozičně dlouhá
+slabika přirozeně dlouhá
+slovník rytmický
+slovník rýmový
+slovo rýmové
+sonorní vrchol
+spondej
+stopa akatalektická
+stopa katalektická
+strofa
+strofa alkajská
+strofa alkajská přízvučná
+strofa asklepiadská
+strofa časoměrná
+strofa čtrnáctiveršová
+strofa čtyřveršová
+strofa desetiveršová
+strofa devítiveršová
+strofa dvanáctiveršová
+strofa dvojveršová
+strofa grafická
+strofa jedenáctiveršová
+strofa jednoduchá
+strofa metrická
+strofa minimální
+strofa monometrická
+strofa oněginská
+strofa osmiveršová
+strofa pětiveršová
+strofa polymetrická
+strofa sapfická
+strofa sapfická přízvučná
+strofa sedmiveršová
+strofa složená
+strofa Spenserova
+strofa sylabočasoměrná
+strofa sylabotónická
+strofa šestiveršová
+strofa trojveršová
+strofa třináctiveršová
+strofa „ryzí časomíry“
+strofické schéma
+strofický modul
+strofika
+sylabismus
+sylabočasomíra
+sylabotónismus
+systém versifikační
+šestiverší
+tercina
+tetrametr
+tónismus
+trimetr
+trochej
+trojverší
+versifikace
+verš
+verš adonský
+verš akatalektický
+verš bezrozměrný
+verš časoměrný
+verš katalektický
+verš logaedický
+verš mluvní
+verš multimetrický
+verš mužský
+verš nemetrický
+verš nerýmovaný
+verš nestrofický
+verš různostopý
+verš stichický
+verš strofický
+verš sylabický
+verš sylabočasoměrný
+verš sylabotónický
+verš tónický
+verš tónový
+verš uvolněný
+verš volný
+verš ženský
+vrchol slabičný (sonorní)
+vztah paradigmatický
+vztah syntagmatický
